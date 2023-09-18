@@ -7,3 +7,5 @@
 # To run tests
 
 `npm run test`
+
+# Test merging
