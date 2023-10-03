@@ -1,7 +1,7 @@
 {
-  "name": "devopsapi",
+  "name": "newapi",
   "version": "1.0.0",
-  "description": "api for devops class",
+  "description": "api for DevOps",
   "main": "index.js",
   "scripts": {
     "hello": "node helloworld.js"
@@ -11,9 +11,10 @@
     "url": "git+https://github.com/aracaraujo/New-API.git"
   },
   "keywords": [
-    "api"
+    "api",
+    "devops"
   ],
-  "author": "ara araujo",
+  "author": "Ara Araujo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aracaraujo/New-API/issues"
