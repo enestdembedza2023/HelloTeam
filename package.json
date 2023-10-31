@@ -4,7 +4,8 @@
   "description": "api for DevOps",
   "main": "index.js",
   "scripts": {
-    "hello": "node helloworld.js"
+    "hello": "node helloworld.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/aracaraujo/New-API/issues"
   },
-  "homepage": "https://github.com/aracaraujo/New-API#readme"
+  "homepage": "https://github.com/aracaraujo/New-API#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "node-fetch2": "^1.6.3"
+  }
 }
